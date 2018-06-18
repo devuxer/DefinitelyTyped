@@ -1825,6 +1825,7 @@ declare namespace React {
         hanging?: number | string;
         horizAdvX?: number | string;
         horizOriginX?: number | string;
+        xlinkHref?: string;
         ideographic?: number | string;
         imageRendering?: number | string;
         in2?: number | string;
